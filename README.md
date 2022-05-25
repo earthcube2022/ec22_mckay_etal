@@ -1,15 +1,15 @@
 <!-- badges: start -->
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nickmckay/EC22-neotoma-actR/main?urlpath=rstudio)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2022/ec22_mckay_etal/main?urlpath=rstudio)
 [![NSF-1929460](https://img.shields.io/badge/NSF-1929460-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1929460)
 [![NSF-1347221](https://img.shields.io/badge/NSF-1347221-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1347221)
 [![NSF-1540996](https://img.shields.io/badge/NSF-1540996-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1540996)
 [![NSF-2126510](https://img.shields.io/badge/NSF-2126510-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2126510)
 
-(This Binder is slow - please be patient, or check out the [rendered version](https://nickmckay.github.io/EC22-neotoma-actR/).)
+(This Binder is slow - please be patient, or check out the [rendered version](https://earthcube2022.github.io/ec22_mckay_etal/).)
 
 # Database interoperability, uncertainty quantification and reproducible workflows in the paleogeosciences
 
-[Rendered version available here](https://nickmckay.github.io/EC22-neotoma-actR/)
+[Rendered version available here](https://earthcube2022.github.io/ec22_mckay_etal/)
 
 ## Abstract
 
@@ -35,7 +35,7 @@ There are a few ways to use this.
 
 1. [Check out the rendered notebook](https://nickmckay.github.io/EC22-neotoma-actR). This is the fastest and easiest way to see the code, the narrative and the products. 
 2. Clone the repo, and run it all for yourself. Follow the intructions to run the needed libraries. 
-3. Run it in [myBinder](https://mybinder.org/v2/gh/nickmckay/EC22-neotoma-actR/main?urlpath=rstudio). Be warned, it can take 10-15 minutes to set up in your browser the first time you run it. 
+3. Run it in [myBinder](https://mybinder.org/v2/gh/earthcube2022/ec22_mckay_etal/main?urlpath=rstudio). Be warned, it can take 10-15 minutes to set up in your browser the first time you run it. 
 
 ### Workflow Overview
 
@@ -51,4 +51,4 @@ This project takes data from [neotoma](https://neotomadb.org) and [lipdverse](ht
 
 ### Key Outputs
 
-This project generates a notebook. The [rendered notebook is available here](https://nickmckay.github.io/EC22-neotoma-actR)
+This project generates a notebook. The [rendered notebook is available here](https://earthcube2022.github.io/ec22_mckay_etal/)

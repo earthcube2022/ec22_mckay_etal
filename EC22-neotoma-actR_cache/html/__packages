@@ -1,6 +1,9 @@
 dplyr
 magrittr
 tidyr
+sp
+raster
+ggplot2
 lipdR
 geoChronR
 neotoma2

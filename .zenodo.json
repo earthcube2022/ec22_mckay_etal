@@ -1,0 +1,29 @@
+
+
+{
+    "title": "Database interoperability, uncertainty quantification and reproducible workflows in the paleogeosciences",
+    "creators": [
+        {
+            "name": "Nicholas McKay",
+            "affiliation": "Northern Arizona University",
+            "orcid": "0000-0003-3598-5113"
+        },
+        {
+            "name": "Julien Emile-Geay",
+            "affiliation": "University of Southern California",
+            "orcid": "0000-0001-5920-4751"
+        },
+        {
+            "name": "Deborah Khider",
+            "affiliation": "University of Southern California",
+            "orcid": "0000-0001-7501-8430"
+        }
+    ],
+    "keywords": [
+        "paleoclimate",
+        "paleoecology",
+        "abrupt change",
+        "R",
+        "LiPD"
+    ]
+}
